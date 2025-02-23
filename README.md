@@ -6,7 +6,8 @@
 
 [![Github Release Downloads](https://img.shields.io/github/downloads/DLindustries/D-hand-mod/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/20laid/D-hand-mod/releases)
 
-<iframe width="1676" height="823" src="https://www.youtube.com/embed/LWGSCFc2Mb4" title="D hand MOD RELEASE PREVIEW. Cpvp ESSENTIALS MOD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## mod demo:
+https://youtu.be/LWGSCFc2Mb4
 
 
 
