@@ -7,7 +7,9 @@
 [![Github Release Downloads](https://img.shields.io/github/downloads/DLindustries/D-hand-mod/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/20laid/D-hand-mod/releases)
 
 
-![Screenshot 2024-08-13 084510](https://github.com/user-attachments/assets/38c968d5-dc7c-4beb-bb7a-4d090a8cd781)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LWGSCFc2Mb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 
