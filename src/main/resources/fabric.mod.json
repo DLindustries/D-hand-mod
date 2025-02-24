@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "cpvputils",
+  "id": "dhandmod",
   "version": "${version}",
 
-  "name": "cpvp utils",
+  "name": "dhandmod",
   "description": "idk",
   "authors": [
     "dlindustries"
@@ -17,7 +17,7 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "dlindustries.optimizer.CpvpUtilsMod"
+      "dlindustries.optimizer.DhandMod"
     ]
   },
 

@@ -10,7 +10,7 @@ import com.mojang.brigadier.builder.LiteralArgumentBuilder;
 
 
 public class EnableOptimizerCommand {
-    public static boolean fastCrystalEnabled = true;
+    public static boolean fastCrystalEnabled = false;
     public static boolean inventorySafetyEnabled = true;
 
     public void register() {
@@ -25,11 +25,11 @@ public class EnableOptimizerCommand {
     }
 
     private void toggleAllFeatures() {
-        fastCrystalEnabled = !fastCrystalEnabled;
+
         inventorySafetyEnabled = !inventorySafetyEnabled;
           // Toggle NoRender along with other features
 
-        String status = fastCrystalEnabled ? "enabled" : "disabled";
+        String status = !inventorySafetyEnabled ? "enabled" : "disabled";
         displayMessage("D-HandMod " + status);
     }
 

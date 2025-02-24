@@ -3,10 +3,8 @@
   "package": "dlindustries.optimizer.mixin",
   "compatibilityLevel": "JAVA_8",
   "client": [
-    "ClientPlayerEntityMixin",
-    "EndCrystalItemMixin",
-    "ItemStackMixin",
-    "MinecraftClientMixin"
+    "ItemStackMixin"
+
   ],
   "injectors": {
     "defaultRequire": 1

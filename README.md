@@ -11,6 +11,8 @@ https://youtu.be/LWGSCFc2Mb4
 
 
 
+
+
 [YouTube](https://youtube.com/@quoly)
 
 <a href="https://discord.gg/yynpznJVkC"><img src="https://invidget.switchblade.xyz/yynpznJVkC" alt="https://discord.gg/yynpznJVkC"/></a><br>
@@ -53,7 +55,7 @@ D-hand-mod uses Gradle to build the client. Install the latest version of Gradle
 
 ## Addition info
 
-Marlowww's crystal optimizer is built in to the mod
+Marlowww's crystal optimizer is NOT built into the mod anymore, unsupported from version 1.1.0 and beyond
 
 ## Contributing
 
