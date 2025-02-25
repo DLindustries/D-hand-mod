@@ -4,7 +4,7 @@
     <img src="https://tokei.rs/b1/github/DLindustries/D-hand-mod?category=code&style=flat" alt="Lines of code">
 </p>
 
-[![Github Release Downloads](https://img.shields.io/github/downloads/DLindustries/D-hand-mod/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/20laid/D-hand-mod/releases)
+[![Github Release Downloads](https://img.shields.io/github/downloads/DLindustries/D-hand-mod/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/DLindustries/D-hand-mod/releases)
 
 ## mod demo:
 https://youtu.be/LWGSCFc2Mb4
@@ -64,10 +64,10 @@ We appreciate contributions. So if you want to support us, feel free to make cha
 TY ps please spread the message about this mod.
 <div align="center">
 
-[![-preview](https://github.com/user-attachments/assets/94d9321d-fc39-4f99-9f0e-593fe977b920)](https://www.youtube.com/@Quoly)
+
 
 
 
 ## Stats
 
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/63b90c11eafcb6a769c328d8a7f9afb5556dd3ca.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/96be8566ccf7b80ef739edcf793c75589b3a45f1.svg "Repobeats analytics image")

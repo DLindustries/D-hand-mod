@@ -5,7 +5,7 @@ import net.minecraft.client.MinecraftClient;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
-import dlindustries.optimizer.command.EnableOptimizerCommand;  // Import the EnableOptimizerCommand class
+import dlindustries.optimizer.command.toggle;  // Import the toggle class
 
 public class InventorySafetyHandler {
     private static boolean inventoryWasOpen = false;
@@ -14,7 +14,7 @@ public class InventorySafetyHandler {
         MinecraftClient client = MinecraftClient.getInstance();
         PlayerEntity player = client.player;
 
-        if (player == null || !EnableOptimizerCommand.inventorySafetyEnabled) return;
+        if (player == null || !toggle.inventorySafetyEnabled) return;
 
         boolean inventoryOpen = client.currentScreen instanceof net.minecraft.client.gui.screen.ingame.InventoryScreen;
 

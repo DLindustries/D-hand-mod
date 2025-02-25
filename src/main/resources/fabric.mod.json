@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "dhandmod",
-  "description": "idk",
+  "description": "sets hotbarslot to totemslot when opening inventory",
   "authors": [
     "dlindustries"
   ],
@@ -22,7 +22,7 @@
   },
 
   "mixins": [
-    "crystaloptimizer.mixins.json"
+    "dhandmodmixins.mixins.json"
   ],
 
   "depends": {
