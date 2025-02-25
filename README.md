@@ -6,8 +6,14 @@
 
 [![Github Release Downloads](https://img.shields.io/github/downloads/DLindustries/D-hand-mod/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/DLindustries/D-hand-mod/releases)
 
-## mod demo:
-https://youtu.be/LWGSCFc2Mb4
+
+
+## mod demonstration:
+
+
+
+[![-preview](https://github.com/user-attachments/assets/56d2055d-2771-4bfa-a7ce-cfeeced871d0)](https://youtu.be/LWGSCFc2Mb4)
+
 
 
 
@@ -17,9 +23,14 @@ https://youtu.be/LWGSCFc2Mb4
 
 <a href="https://discord.gg/yynpznJVkC"><img src="https://invidget.switchblade.xyz/yynpznJVkC" alt="https://discord.gg/yynpznJVkC"/></a><br>
 
+## Mod description
+
 </div>
 
 D-hand-mod is a free open source Cpvp utillity for 1.19+
+it auto switches to the hotbar totem when opening inventory to auto double hand. 
+**NOT A HACK** as it acts as a double keybind to totem slot
+Crucial mod for mastering toteming in crystal pvp as it minimises human errors 
 
 ## Issues
 
