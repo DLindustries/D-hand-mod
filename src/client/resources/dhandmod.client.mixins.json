@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "vigillant.dlindustries.fabric.dhandmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "ItemStackMixin",
+    "InventorySwitchMixin",
+    "WorldStateResetMixin",
+    "ClientTickMixin"
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
