@@ -32,10 +32,12 @@ public class InventorySafetyHandler {
     }
 
     private static void scheduleInventoryOpen() {
-        long delay = (long) Math.max(40, (random.nextGaussian() * 20 + 50));
+        long delay = Math.max(10, Math.min(35, (long) (random.nextGaussian() * 20 + 50)));
         scheduledOpenTime = System.currentTimeMillis() + delay;
         shouldOpenInventory = true;
     }
+
+
 
     public static void onClientTick() {
         if (shouldOpenInventory && System.currentTimeMillis() >= scheduledOpenTime) {
